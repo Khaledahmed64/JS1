@@ -138,3 +138,8 @@
      element.classList.remove("is-valid");
    }
  }
+
+function closeModal() {
+  boxModal.classList.add("d-none");
+}
+
